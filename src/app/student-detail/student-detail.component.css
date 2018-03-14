@@ -1,0 +1,10 @@
+.content {
+    padding: 0 20px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    margin: 0!important;
+}
+
+
+.photo-container img {
+    max-width: 100%;
+}

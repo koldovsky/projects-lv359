@@ -1,128 +1,114 @@
 [
   {
-    "name": "Andrii Bobak",
-    "websiteUrl": "https://andriy-bobak.github.io/andrew-site/",
-    "codeSourceUrl": "https://github.com/andriy-bobak",
-    "cvUrl": "https://www.linkedin.com/in/andriy-bobak-0893ba15b/",
-    "photoUrl": "assets/images/students/bobak.jpg"
+    "name": "Andriana Burbylo",
+    "websiteUrl": "https://andrianaburbylo.github.io/personal-website/",
+    "codeSourceUrl": "https://github.com/AndrianaBurbylo/personal-website",
+    "cvUrl": "https://www.linkedin.com/in/andriana-burbylo-5386b7161/",
+    "photoUrl": "assets/images/students/burbylo.jpg"
   },
   {
-    "name": "Kseniia Nedilko",
-    "websiteUrl": "https://kseniianedilko.github.io/my-project/",
-    "codeSourceUrl": "https://github.com/KseniiaNedilko",
-    "cvUrl": "https://www.linkedin.com/in/kseniia-dovbaniuk-59a808b3/",
-    "photoUrl": "assets/images/students/nedilko.jpg"
+    "name": "Mykhaylo Romanyshyn",
+    "websiteUrl": "https://iwillgrowup.github.io/My_Project/",
+    "codeSourceUrl": "https://github.com/IWillGrowUp/My_Project",
+    "cvUrl": "https://www.linkedin.com/in/mike-romanyshyn-229995159/",
+    "photoUrl": "assets/images/students/romanyshyn.jpg"
   },
   {
-    "name": "Oleksii Zharikov",
-    "websiteUrl": "https://alexeyzharikov.github.io/final/index.html#",
-    "codeSourceUrl": "https://github.com/AlexeyZharikov",
-    "cvUrl": "https://www.linkedin.com/in/aleksey-zharikov-17a2a24a/",
-    "photoUrl": "assets/images/students/zharikov.jpg"
+    "name": "Nikita Panchenko",
+    "websiteUrl": "https://kotan4.github.io/moonlight/",
+    "codeSourceUrl": "https://github.com/kotan4/moonlight",
+    "cvUrl": "https://www.linkedin.com/in/nikita-panchenko-3956b8161/",
+    "photoUrl": "assets/images/students/panchenko.jpg"
   },
   {
-    "name": "Roman Krasko",
-    "websiteUrl": "https://rikichirinkato.github.io/alicepractice210118/",
-    "codeSourceUrl": "https://github.com/Rikichirinkato/alicepractice210118",
-    "cvUrl": "https://www.linkedin.com/in/roman-krasko-b1336115a/",
-    "photoUrl": "assets/images/students/krasko.jpg"
+    "name": "Olha Hudz",
+    "websiteUrl": "https://olhahudz8.github.io/finalwork/",
+    "codeSourceUrl": "https://github.com/olhahudz8/finalwork",
+    "cvUrl": "https://www.linkedin.com/in/olha-hudz-67a239161/",
+    "photoUrl": "assets/images/students/hudz.jpg"
   },
   {
-    "name": "Roman Mykhailiuk",
-    "websiteUrl": "https://justdo1t90.github.io/website-esp/",
-    "codeSourceUrl": "https://github.com/JustDo1t90/website-esp",
-    "cvUrl": "https://www.linkedin.com/in/roman-mykhailiuk-a40b6315b/",
-    "photoUrl": "assets/images/students/mykhailiuk.jpg"
+    "name": "Oleh Yablonskyy",
+    "websiteUrl": "https://olegyablonskiy.github.io/purpledeco/",
+    "codeSourceUrl": "https://github.com/olegyablonskiy?tab=repositories",
+    "cvUrl": "https://www.linkedin.com/in/oleg-yablonskiy-772856161/",
+    "photoUrl": "assets/images/students/yablonskyy.jpg"
   },
   {
-    "name": "Rostyslav Sova",
-    "websiteUrl": "https://rostyslavsova.github.io/my-page/",
-    "codeSourceUrl": "https://github.com/RostyslavSova/my-page",
-    "cvUrl": "https://www.linkedin.com/in/rostyslav-sova/",
-    "photoUrl": "assets/images/students/sova.png"
+    "name": "Ostap Ivat",
+    "websiteUrl": "https://darkin4.github.io/slowmosite/",
+    "codeSourceUrl": "https://github.com/darkin4/slowmosite",
+    "cvUrl": "",
+    "photoUrl": "assets/images/students/ivat.jpg"
   },
   {
-    "name": "Taras Sava",
-    "websiteUrl": "https://totallifeforever94.github.io/homework2/",
-    "codeSourceUrl": "https://github.com/totallifeforever94/homework2",
-    "cvUrl": "https://www.linkedin.com/in/taras-sava-089a0715b/",
-    "photoUrl": "assets/images/students/sava.jpg"
+    "name": "Stanislav Kleshnov",
+    "websiteUrl": "https://stas763.github.io/TheWall-2/",
+    "codeSourceUrl": "https://github.com/stas763",
+    "cvUrl": "https://www.linkedin.com/in/stanislav-kleshnov/",
+    "photoUrl": "assets/images/students/kleshnov.jpg"
   },
   {
-    "name": "Valeriy Yurchenko",
-    "websiteUrl": "https://leon61ukr.github.io/final-project/",
-    "codeSourceUrl": "https://github.com/leon61ukr",
-    "cvUrl": "https://www.linkedin.com/in/valeriy-yurchenko/",
-    "photoUrl": "assets/images/students/yurchenko.jpg"
-  },
-  {
-    "name": "Volodymyr Cherkavs'kyi",
-    "websiteUrl": "https://volodblack.github.io/html-homework2/",
-    "codeSourceUrl": "https://github.com/volodblack/html-homework2",
-    "cvUrl": "https://www.linkedin.com/in/volodymyr-cherkavskyi-27647615b/",
-    "photoUrl": "assets/images/students/cherkavskyi.jpg"
-  },
-  {
-    "name": "Yanina Trekhleb",
-    "websiteUrl": "https://yaninatrekhleb.github.io/Yanina-s-cooking-blog/",
-    "codeSourceUrl": "https://github.com/YaninaTrekhleb/Yanina-s-cooking-blog",
-    "cvUrl": "https://www.linkedin.com/in/yanina-trekhleb-22ba52113/",
-    "photoUrl": "assets/images/students/trekhleb.jpg"
-  },
-  {
-    "name": "Iryna Kunyk",
+    "name": "Iuliia Labish",
     "websiteUrl": "",
     "codeSourceUrl": "",
     "cvUrl": "",
-    "photoUrl": "assets/images/students/kunyk.jpg"
+    "photoUrl": "assets/images/students/labish.jpg"
   },
   {
-    "name": "Marta Kovaliv",
-    "websiteUrl": "https://mersirene.github.io/almost-final/",
-    "codeSourceUrl": "https://github.com/mersirene",
-    "cvUrl": "https://www.linkedin.com/in/marta-kovaliv-10157511b/",
-    "photoUrl": "assets/images/students/kovaliv.jpg"
-  },
-  {
-    "name": "Oleksandr Siaskyi",
-    "websiteUrl": "https://alex9523.github.io/webPageAcademy/",
-    "codeSourceUrl": "https://github.com/alex9523/webPageAcademy",
+    "name": "Andriy Lavrinok",
+    "websiteUrl": "https://andriy1987.github.io/hw4/",
+    "codeSourceUrl": "https://github.com/Andriy1987/hw4",
     "cvUrl": "",
-    "photoUrl": "assets/images/students/siaskyi.jpg"
+    "photoUrl": "assets/images/students/lavrinok.jpg"
   },
   {
-    "name": "Tetiana Shcherbata",
-    "websiteUrl": "https://tetishcher.github.io/advasoft_site/",
-    "codeSourceUrl": "https://github.com/tetishcher",
-    "cvUrl": "https://www.linkedin.com/in/tatiana-shcherbata-2a773422/",
-    "photoUrl": "assets/images/students/shcherbata.jpg"
+    "name": "Dmytro Malakhov",
+    "websiteUrl": "https://dmytromalakhov.github.io/portfolio-web-developer/",
+    "codeSourceUrl": "https://github.com/DmytroMalakhov/portfolio-web-developer",
+    "cvUrl": "https://www.linkedin.com/in/dmytro-malakhov-b4691012a/",
+    "photoUrl": "assets/images/students/malakhov.jpg"
   },
   {
-    "name": "Uliana Shnyr",
-    "websiteUrl": "https://ulyanashnyr.github.io/Security-PRO/",
-    "codeSourceUrl": "https://github.com/UlyanaShnyr",
-    "cvUrl": "https://www.linkedin.com/in/ulyana-shnyr-776b0b154/",
-    "photoUrl": "assets/images/students/shnyr.jpg"
+    "name": "Mykhailo Dulyba",
+    "websiteUrl": "https://softserve-mike.github.io/main-project/",
+    "codeSourceUrl": "https://github.com/softserve-mike/main-project",
+    "cvUrl": "www.linkedin.com/in/mykhailo-dulyba-7bb6b8161",
+    "photoUrl": "assets/images/students/dulyba.jpg"
   },
   {
-    "name": "Volodymyr Didur",
-    "websiteUrl": "https://supermaaan99.github.io/portfolio/",
-    "codeSourceUrl": "https://github.com/supermaaan99/portfolio/",
+    "name": "Olha Shpylova",
+    "websiteUrl": "https://olhaspl.github.io/artvaska/",
+    "codeSourceUrl": "https://github.com/olhaspl",
     "cvUrl": "",
-    "photoUrl": "assets/images/students/didur.jpg"
+    "photoUrl": "assets/images/students/shpylova.jpg"
   },
   {
-    "name": "Yevhen Kondratyev",
-    "websiteUrl": "https://tranquil-sierra-86540.herokuapp.com/",
-    "codeSourceUrl": "https://github.com/ykondrat/formsender",
-    "cvUrl": "https://www.linkedin.com/in/yevhen-kondratyev-4191b459/",
-    "photoUrl": "assets/images/students/kondratyev.jpg"
-  },
-  {
-    "name": "Yuriy Ivanov",
-    "websiteUrl": "https://psihovmaster.github.io/ex",
-    "codeSourceUrl": "https://github.com/PsihovMaster",
+    "name": "Valeriy Krutoy",
+    "websiteUrl": "",
+    "codeSourceUrl": "",
     "cvUrl": "",
-    "photoUrl": "assets/images/students/ivanov.jpg"
+    "photoUrl": "assets/images/students/krutoy.jpg"
+  },
+  {
+    "name": "Vasyl Krupa",
+    "websiteUrl": "https://vasyl-krupa.github.io/noname-photographer/",
+    "codeSourceUrl": "https://github.com/vasyl-krupa/noname-photographer",
+    "cvUrl": "",
+    "photoUrl": "assets/images/students/krupa.jpg"
+  },
+  {
+    "name": "Vasyl' Kurchak",
+    "websiteUrl": "",
+    "codeSourceUrl": "",
+    "cvUrl": "",
+    "photoUrl": "assets/images/students/kurchak.jpg"
+  },
+  {
+    "name": "Yurii Koval'",
+    "websiteUrl": "https://iamonewiththeforceandtheforceiswithme.github.io/followersofhtml/",
+    "codeSourceUrl": "https://github.com/IamOneWithTheForceAndTheForceIsWithMe/followersofhtml",
+    "cvUrl": "https://www.linkedin.com/in/yurii-koval-732269161/",
+    "photoUrl": "assets/images/students/koval.png"
   }
 ]

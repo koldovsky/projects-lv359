@@ -92,15 +92,15 @@
   },
   {
     "name": "Iryna Letiy",
-    "websiteUrl": "",
-    "codeSourceUrl": "",
-    "cvUrl": "",
-    "photoUrl": "assets/images/students/letiy.jfif"
+    "websiteUrl": "https://iraletiy.github.io/csshome2/",
+    "codeSourceUrl": "https://github.com/IraLetiy/csshome2",
+    "cvUrl": "https://www.linkedin.com/feed/",
+    "photoUrl": "assets/images/students/letiy.jpg"
   },
   {
     "name": "Lyudmyla Herus",
-    "websiteUrl": "",
-    "codeSourceUrl": "",
+    "websiteUrl": "https://lherus.github.io/lyudmyla-herus/",
+    "codeSourceUrl": "https://github.com/lherus/lyudmyla-herus/",
     "cvUrl": "",
     "photoUrl": "assets/images/students/herus.jfif"
   },

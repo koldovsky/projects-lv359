@@ -29,15 +29,15 @@
   },
   {
     "name": "Artem Fominov",
-    "websiteUrl": "https://troublet.github.io/pureCSS/",
-    "codeSourceUrl": "https://github.com/TroubleT/pureCSS",
+    "websiteUrl": "https://chief7071.github.io/incredible-shop/",
+    "codeSourceUrl": "https://github.com/chief7071/incredible-shop",
     "cvUrl": "https://www.linkedin.com/in/artem-fominov-849878169",
     "photoUrl": "assets/images/students/fominov.jpg"
   },
   {
     "name": "Hryhorii Starykov",
-    "websiteUrl": "https://chief7071.github.io/incredible-shop/",
-    "codeSourceUrl": "https://github.com/chief7071/incredible-shop",
+    "websiteUrl": "https://troublet.github.io/pureCSS/",
+    "codeSourceUrl": "https://github.com/TroubleT/pureCSS",
     "cvUrl": "https://www.linkedin.com/in/hryhorii-starykov-7b7a88169/",
     "photoUrl": "assets/images/students/starykov.jpg"
   },
@@ -67,7 +67,7 @@
     "websiteUrl": "https://lyubac.github.io/website/",
     "codeSourceUrl": "https://github.com/LyubaC/website",
     "cvUrl": "",
-    "photoUrl": "assets/images/students/chepil’.jpg"
+    "photoUrl": "assets/images/students/chepil.jpg"
   },
   {
     "name": "Marta Khmil`",
@@ -127,8 +127,8 @@
   },
   {
     "name": "Oksana Plotnikova",
-    "websiteUrl": "",
-    "codeSourceUrl": "",
+    "websiteUrl": "https://oksankapl17.github.io/",
+    "codeSourceUrl": "https://github.com/oksankapl17/oksankapl17.github.io",
     "cvUrl": "https://www.linkedin.com/in/oksana-plotnikova-94284a16a/",
     "photoUrl": "assets/images/students/plotnikova.jpg"
   },
@@ -176,8 +176,10 @@
   },
   {
     "name": "Taras Andrusiv",
-    "websiteUrl": "https://tarasandrusiv.github.io/market-second/ https://tarasandrusiv.github.io/bootstrap/",
-    "codeSourceUrl": "https://github.com/tarasandrusiv/market-second https://github.com/tarasandrusiv/bootstrap",
+    "websiteUrl": "https://tarasandrusiv.github.io/market-second/",
+    "websiteUrl2": "https://tarasandrusiv.github.io/bootstrap/",
+    "codeSourceUrl": "https://github.com/tarasandrusiv/market-second",
+    "codeSourceUrl2": "https://github.com/tarasandrusiv/bootstrap",
     "cvUrl": "https://www.linkedin.com/in/taras-andrusiv-34a708b8/",
     "photoUrl": "assets/images/students/andrusiv.jpg"
   },

@@ -2,6 +2,8 @@
   <h1>{{currStudent.name}}</h1>
   <p>Website: <a target="_blank" href="{{currStudent.websiteUrl}}">{{currStudent.websiteUrl}}</a></p>
   <p>Code Source: <a target="_blank" href="{{currStudent.codeSourceUrl}}">{{currStudent.codeSourceUrl}}</a></p>
+  <p *ngIf="currStudent.websiteUrl2">Website 2: <a target="_blank" href="{{currStudent.websiteUrl2}}">{{currStudent.websiteUrl2}}</a></p>
+  <p *ngIf="currStudent.codeSourceUrl2">Code Source 2: <a target="_blank" href="{{currStudent.codeSourceUrl2}}">{{currStudent.codeSourceUrl2}}</a></p>
   <p *ngIf="currStudent.cvUrl">CV: <a target="_blank" href="{{currStudent.cvUrl}}">{{currStudent.cvUrl}}</a></p>
   <div class="photo-container">
     <img src={{currStudent.photoUrl}} alt="{{currStudent.name}}" onError="this.src='assets/images/no-photo.gif'">

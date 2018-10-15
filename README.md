@@ -1,2 +1,2 @@
-Project List for group Lv-346:
-http://koldovsky.github.io/projects-lv346/index.html
+Project List for group Lv-352:
+http://koldovsky.github.io/projects-lv352/index.html
